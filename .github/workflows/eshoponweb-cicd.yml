@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-devOps-eshopeonweb-2393422
   LOCATION: westusc
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: rg-devOps-eshopeonweb-2393422
+  SUBSCRIPTION-ID: 201f38f8-f70e-46d4-afe2-c17e4e349c43
   WEBAPP-NAME: eshoponweb-webapp-2393422c
 
 
